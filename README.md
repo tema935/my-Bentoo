@@ -3,7 +3,10 @@
 Это мой конфиг ![Bento](https://github.com/migueravila/bento)
 
 ## установка
-- `git clone https://github.com/tema935/my-Bentoo
+
+```shell
+git clone https://github.com/tema935/my-Bentoo
 cd my-Bentoo
-stow -t ~ Bento/ `
+stow -t ~ Bento/ 
+```
 
