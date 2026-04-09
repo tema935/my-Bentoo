@@ -9,4 +9,3 @@ git clone https://github.com/tema935/my-Bentoo
 cd my-Bentoo
 stow -t ~ Bento/ 
 ```
-
